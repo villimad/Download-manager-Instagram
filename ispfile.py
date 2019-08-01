@@ -18,7 +18,3 @@ for q1 in range(0, p, 1):
         two.dw()
         pass
     pass
-
-
-
-

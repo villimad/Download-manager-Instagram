@@ -46,12 +46,12 @@ class InstDWIMG:
                 f.write(logo)
                 f.close()
             except:
-                vvv=1
+                print("Bad URL")
 
-
+            print("Download complete")
 
         except:
-            vvv=1
+            print("Error")
         pass
 
     pass

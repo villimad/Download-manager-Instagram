@@ -45,8 +45,7 @@ class Profile:
                 pass
             return key_for_dw
         except:
-            vvv=1
-
+            print("Error pars_page")
 
 
 pass
